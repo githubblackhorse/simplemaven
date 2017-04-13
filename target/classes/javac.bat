@@ -1,0 +1,1 @@
+cmd.exe /X /C ""C:\Program Files\Java\jdk1.8.0_92\bin\javac.exe" @C:/hari/gitroot/mvnexproject/Analytics/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler7130496802257559732arguments"
